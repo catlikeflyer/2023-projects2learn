@@ -1,5 +1,5 @@
 # 2023 Tech Projects to learn.
-Learning roadmap for different tech stacks and IT areas for 2023. Boost your skills using public and open-source resources. Learn everything with 1 hour/day in around 10 weeks.
+Learning roadmap for different tech stacks and IT areas for 2023. Boost your skills using public and open-source resources. Build projects and learn by doing. Employ different tech stacks to attack the same challenge or problem. 
 
 ## Suggested resources/courses before starting
 - [FreeCodeCamp](https://www.freecodecamp.org/): They have a variety of programming and coding courses. You can learn everything from HTML, CSS, JavaScript, Python, Java, C++, C#, PHP, SQL, and more. They also have a lot of projects to practice your skills and issue certificates.
