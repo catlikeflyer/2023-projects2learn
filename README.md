@@ -1,4 +1,4 @@
-# 2023 Tech Roadmap/Learning Tree.
+# 2023 Tech Projects to learn.
 Learning roadmap for different tech stacks and IT areas for 2023. Boost your skills using public and open-source resources. Learn everything with 1 hour/day in around 10 weeks.
 
 ## Suggested resources/courses before starting
@@ -16,12 +16,12 @@ Learning roadmap for different tech stacks and IT areas for 2023. Boost your ski
 - [Project Management](PM)
 
 ## Contributing
-As of now, this repo is in its early stages. I will be adding more resources and courses to the roadmap. If you have any suggestions or want to contribute, feel free to open an issue or a pull request.
+As of now, this repo is in its early stages. I will be adding more resources, courses and projects to the roadmap. If you have any suggestions or want to contribute, feel free to open an issue or a pull request.
 
 ## Disclaimer
 This is a personal project to facilitate and share my learning experience with y'all. Everyone learns at different paces and absorbs knowledge at different rates. Each one of you is responsible of what they learn and how they use the knowledge. I am not responsible for any damage caused by the use of this repo. The roadmaps are not perfect nor cover all of the topics. They are just a starting point for you to learn and explore.
 
 ## License
-[MIT](LICENSE.md) to all applicable resources.
+[MIT](LICENSE.md).
 
 
