@@ -7,7 +7,7 @@ Learning roadmap for different tech stacks and IT areas for 2023. Boost your ski
 - [The Odin Project](https://www.theodinproject.com/): A free open-source learning platform for web development. It covers everything from HTML, CSS, JavaScript, Ruby, Ruby on Rails, and more.
 
 ## Roadmaps and learning tree
-- [Machine Learning with TensorFlow](ML-TensorFlow)
+- [Machine Learning with TensorFlow](MachineLearning)
 - [Data Science with SciKit Learn](DS-Scikit)
 - [Frontend Dev with React](FD-ReactTs)
 - [Microservices with Python, Docker and Kubernetes](MS-PyDockK8)
