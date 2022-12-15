@@ -6,8 +6,9 @@ Learning roadmap for different tech stacks and IT areas for 2023. Boost your ski
 - [CS50 by Harvard](https://cs50.harvard.edu/x/2022/): The best introductory course to computer science. It covers everything from C programming to data structures and algorithms. 
 - [The Odin Project](https://www.theodinproject.com/): A free open-source learning platform for web development. It covers everything from HTML, CSS, JavaScript, Ruby, Ruby on Rails, and more.
 
-## Roadmaps and learning tree
-- [Machine Learning with TensorFlow](MachineLearning)
+## Areas of focus
+- [Machine Learning](MachineLearning)
+- [React](React)
 - [Data Science with SciKit Learn](DS-Scikit)
 - [Frontend Dev with React](FD-ReactTs)
 - [Microservices with Python, Docker and Kubernetes](MS-PyDockK8)
