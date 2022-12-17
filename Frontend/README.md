@@ -15,4 +15,4 @@ Although frontend development is mainly considered for building websites, it als
 
 ### Advanced
 - [The Odin Project](https://www.theodinproject.com/): The Odin Project is a free open-source learning platform for web development. It covers everything from HTML, CSS, JavaScript, Ruby, Ruby on Rails, and more. It also includes a series of projects to practice your skills. This project also covers backend development, so make sure to check out the [backend section](../Backend/README.md) as well before you get going.
-
+- [Alicia Rodriguez Next.js Course](https://youtu.be/KjY94sAKLlw): Next.js is a React framework that makes it easy to build static and server-side rendered applications. It's used by many big companies, such as Netflix, Uber, and Twitch. 
