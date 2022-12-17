@@ -7,6 +7,7 @@ I'll also be adding project ideas and how to get started for you to put on pract
 Check each of the areas you want to learn and explore the courses. You can also check the [roadmap.sh](https://roadmap.sh/) to help you get an idea of where to start or confirm your interests.
 
 - [Frontend](Frontend)
+- [Backend](Backend)
 ** More to come **
 
 ## Suggested resources/courses before starting
