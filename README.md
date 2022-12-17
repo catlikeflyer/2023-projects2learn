@@ -12,7 +12,7 @@ Check each of the areas you want to learn and explore the courses. You can also 
 ## Suggested resources/courses before starting
 - [FreeCodeCamp](https://www.freecodecamp.org/): They have a variety of programming and coding courses. You can learn everything from HTML, CSS, JavaScript, Python, Java, C++, C#, PHP, SQL, and more. They also have a lot of projects to practice your skills and issue certificates.
 - [CS50 by Harvard](https://cs50.harvard.edu/x/2022/): The best introductory course to computer science. It covers everything from C programming to data structures and algorithms. 
-- [The Odin Project](https://www.theodinproject.com/): A free open-source learning platform for web development. It covers everything from HTML, CSS, JavaScript, Ruby, Ruby on Rails, and more.
+- [UMich Python for Everybody](https://online.umich.edu/series/python-for-everybody/): Along with CS50, one of the best courses to learn the basics of programming and compsci. Python is gaining popularity when developing servers and APIs, so it's a good idea to learn it.
 
 ## Contributing
 As of now, this repo is in its early stages. I will be adding more resources, courses and projects to the roadmap. If you have any suggestions or want to contribute, feel free to open an issue or a pull request and check the [Contribution Guidelines](CONTRIBUTION.md).
